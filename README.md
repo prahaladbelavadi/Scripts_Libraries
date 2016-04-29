@@ -45,6 +45,12 @@ Simply,skipping repeated steps similarly, but regularly.
 				2.Set windows path variable: Lead to "C:\Ruby21-x64\bin;C:\Users\praha\AppData\Roaming\npm;C:\program files\nodejs\node_modules\npm\bin"
 	~Watch Syntax while adding environment path variables.~
 	
+--------------------------------------------------------------------------------------
+	
+--------------------------------------------------------------------------------------
+~Update:MongoDB;
+		1.Installation:"https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/#requirements"
+			Reference:"http://webcache.googleusercontent.com/search?q=cache:http://nverma-tech-blog.blogspot.com/2014/04/mongodb-introduction-with-java-version-2.html"
 		
 --------------------------------------------------------------------------------------
 ~Update:MEAN;
