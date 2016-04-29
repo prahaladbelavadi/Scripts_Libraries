@@ -10,7 +10,9 @@ Simply,skipping repeated steps similarly, but regularly.
 					git commit -m "message"
 						git push origin master
 			)};
-						Reference:"http://rogerdudler.github.io/git-guide/"
+						Reference:
+									"http://rogerdudler.github.io/git-guide/"
+									"http://www.sitepoint.com/git-for-beginners/"
 --------------------------------------------------------------------------------------
 ~Update:Section;
 	1.Open Office
